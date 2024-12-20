@@ -1,14 +1,17 @@
-## 📌 PR 요약
+## 📌 PR Summary
 
-**이 PR이 해결하는 문제 또는 구현하는 기능을 간단히 요약해 주세요.**  
-예시: 회원가입 기능의 비밀번호 유효성 검사를 추가
+> **Put Short Description here.**  
+Ex: Implement Oauth login and clean-up comments
 
 
-## 🔗 관련 이슈
 
-이 PR이 해결하는 관련 이슈를 링크해 주세요.  
-에시: #123
+## 🔗 Related Issues
+ 
+Ex: #123 #456
 
-## 🤔 참고 사항
 
-이 PR과 관련해 추가적으로 고려해야 할 사항이나 참고할 내용을 적어주세요.
+
+## 🤔 NOTE
+
+> Additional info about changes to help understand chages you made
+Ex: `src/example.svg` is not being used anymore so removed.
