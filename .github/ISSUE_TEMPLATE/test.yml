@@ -1,0 +1,17 @@
+name: "🧪 Test Template"
+description: "테스트 케이스 시나리오 및 결과를 작성해 주세요."
+labels: "🧪 Test"
+body:
+  - type: textarea
+    attributes:
+      label: "📝 Test Description"
+      description: "테스트 케이스에 대한 설명을 작성해 주세요. (예: 테스트 목적, 기대 결과, 환경 정보 등)"
+      placeholder: "테스트 케이스에 대해 자세히 작성해 주세요."
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: "🛠 Steps to Reproduce"
+      description: "테스트를 재현하기 위한 단계를 순서대로 작성해 주세요."
+      placeholder: "예: 1. ... 2. ... 3. ..."
